@@ -1,0 +1,16 @@
+(lp0
+(dp1
+S'year'
+p2
+I1954
+sS'title'
+p3
+S'Godzilla'
+p4
+sa(dp5
+g2
+I1999
+sg3
+S'Godzilla 2000: Millennium'
+p6
+sa.
